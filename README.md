@@ -19,7 +19,8 @@ Example: Constructor and destructor in the Book and Library classes.
 
 
 
-## 4.Abstraction hides the complex implementation details and exposes only the necessary features.
+## 4.Abstraction
+Abstraction hides the complex implementation details and exposes only the necessary features.
 Example: The Library class abstracts the details of book management, allowing the user to interact with it through high-level functions like addBook().
 
 ## 5.Friend Functions:
